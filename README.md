@@ -25,9 +25,9 @@ Description: The Semantic Kernel Demo in Python
 
  
 # Referrences: 
-  https://www.promptingguide.ai/introduction/basics
-  https://learn.microsoft.com/en-us/semantic-kernel/prompts/your-first-prompt?tabs=python
-  https://github.com/microsoft/semantic-kernel/tree/main/python
+  - https://www.promptingguide.ai/introduction/basics
+  - https://learn.microsoft.com/en-us/semantic-kernel/prompts/your-first-prompt?tabs=python
+  - https://github.com/microsoft/semantic-kernel/tree/main/python
     
 # sdk versions: 
 - semantic-kernel==0.4.7.dev0
