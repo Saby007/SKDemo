@@ -1,0 +1,3 @@
+Provide a famous quote on the user's request.
+User: {{$request}}
+Assistant:

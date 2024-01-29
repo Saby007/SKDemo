@@ -1,0 +1,18 @@
+{
+    "schema": 1,
+    "type": "completion",
+    "description": "Provide a famous quote.",
+    "completion": {
+      "max_tokens": 40000,
+      "temperature": 1.0
+    },
+    "input": {
+      "parameters": [
+        {
+          "name": "request",
+          "description": "The user's request.",
+          "defaultValue": ""
+        }        
+      ]
+    }
+  }
